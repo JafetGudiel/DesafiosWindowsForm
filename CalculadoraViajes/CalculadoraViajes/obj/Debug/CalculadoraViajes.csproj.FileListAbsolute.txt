@@ -1,0 +1,10 @@
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\bin\Debug\CalculadoraViajes.exe.config
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\bin\Debug\CalculadoraViajes.exe
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\bin\Debug\CalculadoraViajes.pdb
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.AssemblyReference.cache
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.Form1.resources
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.Properties.Resources.resources
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.GenerateResource.cache
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.csproj.CoreCompileInputs.cache
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.exe
+C:\Users\TF049\Documents\clases cursos C#\CalculadoraViajes\CalculadoraViajes\obj\Debug\CalculadoraViajes.pdb
